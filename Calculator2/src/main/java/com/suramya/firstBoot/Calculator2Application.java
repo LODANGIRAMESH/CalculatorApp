@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Calculator2Application {
 
 	public static void main(String[] args) {
+		System.out.println("hello");
 		SpringApplication.run(Calculator2Application.class, args);
 	}
 
